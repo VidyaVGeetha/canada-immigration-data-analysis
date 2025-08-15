@@ -42,16 +42,5 @@ The analysis includes:
 - **EDA Techniques** – Descriptive statistics, trend analysis
 - **Storytelling with Data** – Annotated event analysis
 
----
-
-## 📂 Repository Structure
-├── canada_immigration_analysis.ipynb # Main analysis notebook
-├── README.md # Project documentation
-├── plots/ # Visualizations generated from the analysis
-│ ├── haiti_2010.png
-│ ├── india_china_trends.png
-│ └── top5_trends.png
-└── data/ # Optional: local dataset copy
-└── Canada.csv
 
 
